@@ -1,6 +1,6 @@
 # Poly2reg
 
-[![Build Status][travis-badge]][travis-link]
+[![Build Status](https://travis-ci.com/rhae/poly2reg.svg?branch=master)](https://travis-ci.com/rhae/poly2reg)
 
 Implementation of polynomial regression of order 2.
 
