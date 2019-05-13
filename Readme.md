@@ -1,5 +1,7 @@
 # Poly2reg
 
+[![Build Status][travis-badge]][travis-link]
+
 Implementation of polynomial regression of order 2.
 
 # Design
